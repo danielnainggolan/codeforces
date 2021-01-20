@@ -1,15 +1,3 @@
-# def input_words():
-#     i = int(input())
-#     words = []
-#     for i in range(i):
-#         temp = input()
-#         words.append(temp if len(temp)<=4 else (temp[0]+str(len(temp[1:-1])) + temp[-1]))
-#     return words
-
-# if __name__ == "__main__":
-#     words = input_words()
-#     print(words)
-
 i = int(input())
 
 for i in range(i):
